@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AKKA_demo.props" />
+</Project>
